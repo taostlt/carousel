@@ -2,6 +2,8 @@
 
 The purpose of this homework is to leverage views, view properties, and events to create a high fidelity prototype that is difficult to distinguish from a production app. We're going to use the techniques from this week to implement the Carousel app from the signed out state to the basic signed in state.
     
+    I'm continually getting a error where Github doesn't allow me to upload my project unless it is zipped but I see many other Repos with it, no problem. I still have a lot to learn to catch up.'
+
 
 Time spent: `<16>`
 
