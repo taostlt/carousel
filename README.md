@@ -1,2 +1,2 @@
-# carousel
+# Carousel
 Carousel
